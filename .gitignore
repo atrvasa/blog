@@ -2,6 +2,7 @@
 node_modules
 dist
 .vitepress/metadata.json
+.vitepress/cache
 
 pnpm-lock.yaml
 
